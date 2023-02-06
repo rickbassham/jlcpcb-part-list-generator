@@ -1,0 +1,7 @@
+{
+    "python.formatting.provider": "black",
+    "isort.check": true,
+    "python.defaultInterpreterPath": "/home/rick/.cache/pypoetry/virtualenvs/jlcpcb-part-list-generator-SWM-1wQx-py3.10/bin/python",
+    "csv-preview.formatValues": "never",
+    "python.linting.mypyEnabled": true,
+}

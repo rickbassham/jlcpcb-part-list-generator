@@ -1,0 +1,14 @@
+ComponentCode,ComponentModel,ComponentSpecification,StockCount,ERPComponentName,ComponentType,ComponentLibraryType,SortableValueMagnitude,SortableValueUnit
+C419716,25121WJ091LT4E,2512,18,91mΩ ±5% 1W,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C422457,1206W4J011LT5E,1206,1264,11mΩ ±5% 250mW,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C784358,25121WJ051LT4E,2512,699,51mΩ ±5% 1W,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C422805,0805W8F110MT5E,0805,15,11mΩ ±1% 125mW,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C422604,1206W4F110MT5E,1206,80,11mΩ ±1% 250mW,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C421668,201007J091LT4E,2010,20,91mΩ ±5% 750mW,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C914835,PA1206FRF470R001Z,1206,2285,1mΩ ±1% 1W,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C914836,PA1206FRF7W0R001L,1206,1010,1mΩ ±1% 500mW,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C728297,PA2512FKE7T0R001E,2512,411,1mΩ ±1% 3W,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C493468,SBB-M-1F-n-t2,-,405,1mΩ ±1% 5W 内折,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C2937404,LMP25MF3P0R001S,2512,193,1mΩ ±1% 3W,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C876459,RL2512FK-070R051L,2512,159,51mΩ ±1% 1W,Chip Resistor - Surface Mount,expand,0.0010000,ohm
+C728283,PA1206FRF470R001L,1206,9,1mΩ ±1% 1W,Chip Resistor - Surface Mount,expand,0.0010000,ohm

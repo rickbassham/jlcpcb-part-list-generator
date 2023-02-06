@@ -1,0 +1,595 @@
+ComponentCode,ComponentModel,ComponentSpecification,StockCount,ERPComponentName,ComponentType,ComponentLibraryType,SortableValueMagnitude,SortableValueUnit,Datasheet
+C49678,CC0805KRX7R9BB104,0805,13733502,100nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810101813_YAGEO-CC0805KRX7R9BB104_C49678.pdf
+C15849,CL10A105KB8NNNC,0603,7288577,1uF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261812_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf
+C25803,0603WAF1003T5E,0603,5911125,100kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1003T5E_C25803.pdf
+C19702,CL10A106KP8NNNC,0603,4631812,10uF ±10% 10V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf
+C22775,0603WAF1000T5E,0603,3820825,100Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1000T5E_C22775.pdf
+C23630,CL10A225KO8NNNC,0603,3567564,2.2uF ±10% 16V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810271109_Samsung-Electro-Mechanics-CL10A225KO8NNNC_C23630.pdf
+C52923,CL05A105KA5NQNC,0402,3327385,1uF ±10% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811091611_Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.pdf
+C1848,CL31B105KBHNNNE,1206,2865444,1uF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810271109_Samsung-Electro-Mechanics-CL31B105KBHNNNE_C1848.pdf
+C15008,CL31A107MQHNNNE,1206,1700382,100uF ±20% 6.3V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810301816_Samsung-Electro-Mechanics-CL31A107MQHNNNE_C15008.pdf
+C25900,0402WGF4701TCE,0402,1667436,4.7kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF4701TCE_C25900.pdf
+C72043,19-217/GHC-YR1S2/3T,0603,1581584,翠绿 520nm~535nm,Light Emitting Diodes (LED),base,,,https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf
+C12530,CL05A225MQ5NSNC,0402,1383994,2.2uF ±20% 6.3V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811021410_Samsung-Electro-Mechanics-CL05A225MQ5NSNC_C12530.pdf
+C24497,CL31B104KBCNNNC,1206,1344318,100nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810221109_Samsung-Electro-Mechanics-CL31B104KBCNNNC_C24497.pdf
+C22935,0603WAF1004T5E,0603,1111786,1MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1004T5E_C22935.pdf
+C27834,0805W8F5101T5E,0805,986549,5.1kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.pdf
+C64898,SM4007PL,SOD-123FL,966268,1kV 1A 1.1V@1A,Diodes - General Purpose,base,,,https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf
+C17630,0805W8F3300T5E,0805,905206,330Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf
+C23178,0603WAF4703T5E,0603,743187,470kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4703T5E_C23178.pdf
+C25117,0402WGF4700TCE,0402,735005,470Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf
+C22950,0603WAF200JT5E,0603,706175,20Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF200JT5E_C22950.pdf
+C1634,CL10C100JB8NNNC,0603,703275,10pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261513_Samsung-Electro-Mechanics-CL10C100JB8NNNC_C1634.pdf
+C17734,0805W8F5100T5E,0805,683043,510Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F5100T5E_C17734.pdf
+C4216,0603WAF3302T5E,0603,666216,33kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF3302T5E_C4216.pdf
+C17661,0805W8F3001T5E,0805,655749,3kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3001T5E_C17661.pdf
+C17927,1206W4F1004T5E,1206,654584,1MΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1004T5E_C17927.pdf
+C53987,0603B472K500NT,0603,638091,4.7nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603B472K500NT_C53987.pdf
+C16106,HT7550-1,SOT-89-3,598693,正 Vin=30V Vout=5V 150mA,Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1811061932_Holtek-Semicon-HT7550-1_C16106.pdf
+C23197,0603WAF510JT5E,0603,578182,51Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF510JT5E_C23197.pdf
+C49217,0805F225M500NT,0805,545800,2.2uF ±20% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811101411_FH--Guangdong-Fenghua-Advanced-Tech-0805F225M500NT_C49217.pdf
+C2500,"BAV99,215",SOT-23,534924,"BAV99,215",Switching Diode,base,,,https://datasheet.lcsc.com/lcsc/1811141238_Nexperia-BAV99-215_C2500.pdf
+C25867,0402WGF1501TCE,0402,465883,1.5kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF1501TCE_C25867.pdf
+C17738,0805W8F510JT5E,0805,434424,51Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F510JT5E_C17738.pdf
+C25794,0402WGF5102TCE,0402,424282,51kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF5102TCE_C25794.pdf
+C8512,MMBT2222A 1P,SOT-23,409804,NPN 40V 600mA,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1811081957_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MMBT2222A-1P_C8512.pdf
+C23024,0603WAF3003T5E,0603,404455,300kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3003T5E_C23024.pdf
+C22452,SS54,SMA(DO-214AC),382665,40V 5A 550mV@5A,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics--SS54_C22452.pdf
+C1562,0402CG330J500NT,0402,372319,33pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141731_FH--Guangdong-Fenghua-Advanced-Tech-0402CG330J500NT_C1562.pdf
+C23352,0603WAF2402T5E,0603,362496,24kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF2402T5E_C23352.pdf
+C32565,EL3H7(B)(TA)-G,SOP-4-2.8mm,348967,EL3H7(B)(TA)-G,Optocouplers - Phototransistor Output,base,,,https://datasheet.lcsc.com/lcsc/1811131510_Everlight-Elec-EL3H7-B-TA-G_C32565.pdf
+C191023,1N5819WS,SOD-323,337210,40V 1A 600mV@1A,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/2204281430_Guangdong-Hottech-1N5819WS_C191023.pdf
+C23018,0603WAF3901T5E,0603,333397,3.9kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3901T5E_C23018.pdf
+C22808,0603WAF1500T5E,0603,331018,150Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1500T5E_C22808.pdf
+C17606,0805W8F200KT5E,0805,330410,2Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F200KT5E_C17606.pdf
+C22818,0603WAF1602T5E,0603,313387,16KΩ (1602) ±1%,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/1811081724_UNI-ROYAL-Uniroyal-Elec-0603WAF1602T5E_C22818.pdf
+C25765,0402WGF2002TCE,0402,311882,20kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF2002TCE_C25765.pdf
+C17544,0805W8F200JT5E,0805,311735,20Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F200JT5E_C17544.pdf
+C1613,CL10B332KB8NNNC,0603,304878,3.3nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261513_Samsung-Electro-Mechanics-CL10B332KB8NNNC_C1613.pdf
+C17655,0805W8F3900T5E,0805,280512,390Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3900T5E_C17655.pdf
+C9634,C9634,SOT-89-3,255641,NPN 30V 3A Y档 160~320,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1809192311_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--C9634_C9634.pdf
+C7950,LM358DR2G,SOIC-8,247565,运算放大器，单电源，双路,Operational Amplifier,base,,,https://datasheet.lcsc.com/lcsc/1811100911_onsemi-LM358DR2G-_C7950.pdf
+C1552,0402CG1R5C500NT,0402,246723,1.5pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151132_FH--Guangdong-Fenghua-Advanced-Tech-0402CG1R5C500NT_C1552.pdf
+C1658,0603CG300J500NT,0603,243795,30pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261611_FH--Guangdong-Fenghua-Advanced-Tech-0603CG300J500NT_C1658.pdf
+C22807,0603WAF1503T5E,0603,225096,150kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1503T5E_C22807.pdf
+C20197,4D03WGJ0102T5E,0603x4,213124,1kΩ ±5%,Resistor Networks & Arrays,base,,,https://datasheet.lcsc.com/lcsc/1810311812_UNI-ROYAL-Uniroyal-Elec-4D03WGJ0102T5E_C20197.pdf
+C1565,0402CG3R3C500NT,0402,205867,3.3pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG3R3C500NT_C1565.pdf
+C25779,0402WGF3302TCE,0402,200211,33kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF3302TCE_C25779.pdf
+C22938,0603WAF2204T5E,0603,198385,2.2MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF2204T5E_C22938.pdf
+C22939,0603WAF220KT5E,0603,192737,2.2Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF220KT5E_C22939.pdf
+C5605,"74HC14D,653",SOIC-14,191755,"74HC14D,653",Inverters,base,,,https://datasheet.lcsc.com/lcsc/1811141851_Nexperia-74HC14D-653_C5605.pdf
+C22980,0603WAF3601T5E,0603,187178,3.6kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3601T5E_C22980.pdf
+C23254,0603WAF8202T5E,0603,186440,82kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF8202T5E_C23254.pdf
+C1615,0603B334K250NT,0603,185110,330nF ±10% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603B334K250NT_C1615.pdf
+C25771,0402WGF2702TCE,0402,180817,27kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF2702TCE_C25771.pdf
+C24278,B772,SOT-89-3,178282,PNP 30V 3A 160-320,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1809211023_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--B772_C24278.pdf
+C2488,MB10S,MBS,172843,1kV 1A 大芯片  .,Bridge Rectifiers,base,,,https://datasheet.lcsc.com/lcsc/2105061432_MDD-Microdiode-Electronics--MB10S_C2488.pdf
+C25981,0603WAF8201T5E,0603,161454,8.2kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF8201T5E_C25981.pdf
+C25897,0402WGF4992TCE,0402,149203,49.9kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF4992TCE_C25897.pdf
+C107045,CC0603JRNPO9BN270,0603,141429,27pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811082127_YAGEO-CC0603JRNPO9BN270_C107045.pdf
+C23265,0603WAF9102T5E,0603,138934,91kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF9102T5E_C23265.pdf
+C1594,0603B151K500NT,0603,133017,150pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061810_FH--Guangdong-Fenghua-Advanced-Tech-0603B151K500NT_C1594.pdf
+C51721,0402WGF3901TCE,0402,129817,3.9kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010000_UNI-ROYAL-Uniroyal-Elec-0402WGF3901TCE_C51721.pdf
+C17802,0805W8F680JT5E,0805,122671,68Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F680JT5E_C17802.pdf
+C25196,0603WAF560JT5E,0603,121633,56Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0603WAF560JT5E_C25196.pdf
+C23163,0603WAF4704T5E,0603,117467,4.7MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4704T5E_C23163.pdf
+C23220,0603WAF6200T5E,0603,117256,620Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF6200T5E_C23220.pdf
+C7955,LM393DR2G,SOIC-8,115470,比较器，双，低偏移电压,Comparators,base,,,https://datasheet.lcsc.com/lcsc/1809171611_onsemi-LM393DR2G_C7955.pdf
+C23147,0603WAF3602T5E,0603,112968,36kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3602T5E_C23147.pdf
+C17521,0805W8F220KT5E,0805,112400,2.2Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F220KT5E_C17521.pdf
+C17801,0805W8F6802T5E,0805,107974,68kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6802T5E_C17801.pdf
+C25767,0402WGF2203TCE,0402,102375,220kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF2203TCE_C25767.pdf
+C1631,0603B682K500NT,0603,87866,6.8nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603B682K500NT_C1631.pdf
+C17818,0805W8F7500T5E,0805,87621,750Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F7500T5E_C17818.pdf
+C28262,CL10C680JB8NNNC,0603,80721,68pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261521_Samsung-Electro-Mechanics-CL10C680JB8NNNC_C28262.pdf
+C1846,1206B103K500NT,1206,73185,10nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811051111_FH--Guangdong-Fenghua-Advanced-Tech-1206B103K500NT_C1846.pdf
+C7377,MCP6002T-I/SN,SOIC-8,67209,MCP6002T-I/SN,Operational Amplifier,base,,,https://datasheet.lcsc.com/lcsc/1811081213_Microchip-Tech-MCP6002T-I-SN--_C7377.pdf
+C13482,SP3232EEY-L/TR,TSSOP-16,65670,收发器 235Kbps,RS232 ICs,base,,,https://datasheet.lcsc.com/lcsc/1810111814_MaxLinear-SP3232EEY-L-TR_C13482.pdf
+C13533,CL05C331JB5NNNC,0402,65471,330pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810192025_Samsung-Electro-Mechanics-CL05C331JB5NNNC_C13533.pdf
+C107145,CC0805KRX7R9BB221,0805,58476,220pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1809281326_YAGEO-CC0805KRX7R9BB221_C107145.pdf
+C7063,SN75176BDR,SOIC-8,56573,SN75176BDR,RS-485/RS-422 ICs,base,,,https://www.ti.com/cn/lit/gpn/sn75176b
+C32346,Q13FC1350000400,SMD3215-2P,55157,32.768kHz ±20ppm 12.5pF,Crystals,base,,,https://datasheet.lcsc.com/lcsc/1810171817_Seiko-Epson-Q13FC1350000400_C32346.pdf
+C4172,0603WAF1504T5E,0603,55013,1.5MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF1504T5E_C4172.pdf
+C1857,1206B224K500NT,1206,41496,220nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810311313_FH--Guangdong-Fenghua-Advanced-Tech-1206B224K500NT_C1857.pdf
+C1034,SDFL1608Q4R7KTF,0603,39792,4.7uH ±10% 2.1Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDFL1608Q4R7KTF_C1034.pdf
+C1049,CMI321609U4R7KT,1206,38537,4.7uH ±10% 650mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1810311322_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609U4R7KT_C1049.pdf
+C1792,0805CG120J500NT,0805,32194,12pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061723_FH--Guangdong-Fenghua-Advanced-Tech-0805CG120J500NT_C1792.pdf
+C7722,TPS61040DBVR,SOT-23-5,31490,升压型 Vin=1.8V~6V Vout=28V 350mA,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/tps61040
+C1043,CMI201209U2R2KT,0805,30089,2.2uH ±10% 600mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1811061719_FH--Guangdong-Fenghua-Advanced-Tech-CMI201209U2R2KT_C1043.pdf
+C6482,AT24C256C-SSHL-T,SOIC-8,25073,AT24C256C-SSHL-T,EEPROM,base,,,https://datasheet.lcsc.com/lcsc/1809151932_Microchip-Tech-AT24C256C-SSHL-T_C6482.pdf
+C6521,CD4052BM96,SOIC-16,11366,CD4052BM96,Analog Switches / Multiplexers,base,,,https://www.ti.com/cn/lit/gpn/cd4052b
+C9683,ULN2803ADWR,SOIC-18-300mil,4676,ULN2803ADWR,Darlington Transistor Arrays,base,,,https://www.ti.com/cn/lit/gpn/uln2803a
+C49678,CC0805KRX7R9BB104,0805,13733502,100nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810101813_YAGEO-CC0805KRX7R9BB104_C49678.pdf
+C15849,CL10A105KB8NNNC,0603,7288577,1uF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261812_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf
+C25803,0603WAF1003T5E,0603,5911125,100kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1003T5E_C25803.pdf
+C19702,CL10A106KP8NNNC,0603,4631812,10uF ±10% 10V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810191219_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.pdf
+C22775,0603WAF1000T5E,0603,3820825,100Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1000T5E_C22775.pdf
+C23630,CL10A225KO8NNNC,0603,3567564,2.2uF ±10% 16V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810271109_Samsung-Electro-Mechanics-CL10A225KO8NNNC_C23630.pdf
+C52923,CL05A105KA5NQNC,0402,3327385,1uF ±10% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811091611_Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.pdf
+C1848,CL31B105KBHNNNE,1206,2865444,1uF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810271109_Samsung-Electro-Mechanics-CL31B105KBHNNNE_C1848.pdf
+C15008,CL31A107MQHNNNE,1206,1700382,100uF ±20% 6.3V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810301816_Samsung-Electro-Mechanics-CL31A107MQHNNNE_C15008.pdf
+C25900,0402WGF4701TCE,0402,1667436,4.7kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF4701TCE_C25900.pdf
+C72043,19-217/GHC-YR1S2/3T,0603,1581584,翠绿 520nm~535nm,Light Emitting Diodes (LED),base,,,https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf
+C12530,CL05A225MQ5NSNC,0402,1383994,2.2uF ±20% 6.3V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811021410_Samsung-Electro-Mechanics-CL05A225MQ5NSNC_C12530.pdf
+C24497,CL31B104KBCNNNC,1206,1344318,100nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810221109_Samsung-Electro-Mechanics-CL31B104KBCNNNC_C24497.pdf
+C22935,0603WAF1004T5E,0603,1111786,1MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1004T5E_C22935.pdf
+C27834,0805W8F5101T5E,0805,986549,5.1kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.pdf
+C64898,SM4007PL,SOD-123FL,966268,1kV 1A 1.1V@1A,Diodes - General Purpose,base,,,https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf
+C17630,0805W8F3300T5E,0805,905206,330Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf
+C23178,0603WAF4703T5E,0603,743187,470kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4703T5E_C23178.pdf
+C25117,0402WGF4700TCE,0402,735005,470Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF4700TCE_C25117.pdf
+C22950,0603WAF200JT5E,0603,706175,20Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF200JT5E_C22950.pdf
+C1634,CL10C100JB8NNNC,0603,703275,10pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261513_Samsung-Electro-Mechanics-CL10C100JB8NNNC_C1634.pdf
+C17734,0805W8F5100T5E,0805,683043,510Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F5100T5E_C17734.pdf
+C4216,0603WAF3302T5E,0603,666216,33kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF3302T5E_C4216.pdf
+C17661,0805W8F3001T5E,0805,655749,3kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3001T5E_C17661.pdf
+C17927,1206W4F1004T5E,1206,654584,1MΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1004T5E_C17927.pdf
+C53987,0603B472K500NT,0603,638091,4.7nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603B472K500NT_C53987.pdf
+C16106,HT7550-1,SOT-89-3,598693,正 Vin=30V Vout=5V 150mA,Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1811061932_Holtek-Semicon-HT7550-1_C16106.pdf
+C23197,0603WAF510JT5E,0603,578182,51Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF510JT5E_C23197.pdf
+C49217,0805F225M500NT,0805,545800,2.2uF ±20% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811101411_FH--Guangdong-Fenghua-Advanced-Tech-0805F225M500NT_C49217.pdf
+C2500,"BAV99,215",SOT-23,534924,"BAV99,215",Switching Diode,base,,,https://datasheet.lcsc.com/lcsc/1811141238_Nexperia-BAV99-215_C2500.pdf
+C25867,0402WGF1501TCE,0402,465883,1.5kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF1501TCE_C25867.pdf
+C17738,0805W8F510JT5E,0805,434424,51Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F510JT5E_C17738.pdf
+C25794,0402WGF5102TCE,0402,424282,51kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF5102TCE_C25794.pdf
+C8512,MMBT2222A 1P,SOT-23,409804,NPN 40V 600mA,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1811081957_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MMBT2222A-1P_C8512.pdf
+C23024,0603WAF3003T5E,0603,404455,300kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3003T5E_C23024.pdf
+C22452,SS54,SMA(DO-214AC),382665,40V 5A 550mV@5A,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics--SS54_C22452.pdf
+C1562,0402CG330J500NT,0402,372319,33pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141731_FH--Guangdong-Fenghua-Advanced-Tech-0402CG330J500NT_C1562.pdf
+C23352,0603WAF2402T5E,0603,362496,24kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF2402T5E_C23352.pdf
+C32565,EL3H7(B)(TA)-G,SOP-4-2.8mm,348967,EL3H7(B)(TA)-G,Optocouplers - Phototransistor Output,base,,,https://datasheet.lcsc.com/lcsc/1811131510_Everlight-Elec-EL3H7-B-TA-G_C32565.pdf
+C191023,1N5819WS,SOD-323,337210,40V 1A 600mV@1A,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/2204281430_Guangdong-Hottech-1N5819WS_C191023.pdf
+C23018,0603WAF3901T5E,0603,333397,3.9kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3901T5E_C23018.pdf
+C22808,0603WAF1500T5E,0603,331018,150Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1500T5E_C22808.pdf
+C17606,0805W8F200KT5E,0805,330410,2Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F200KT5E_C17606.pdf
+C22818,0603WAF1602T5E,0603,313387,16KΩ (1602) ±1%,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/1811081724_UNI-ROYAL-Uniroyal-Elec-0603WAF1602T5E_C22818.pdf
+C25765,0402WGF2002TCE,0402,311882,20kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF2002TCE_C25765.pdf
+C17544,0805W8F200JT5E,0805,311735,20Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F200JT5E_C17544.pdf
+C1613,CL10B332KB8NNNC,0603,304878,3.3nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261513_Samsung-Electro-Mechanics-CL10B332KB8NNNC_C1613.pdf
+C17655,0805W8F3900T5E,0805,280512,390Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3900T5E_C17655.pdf
+C9634,C9634,SOT-89-3,255641,NPN 30V 3A Y档 160~320,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1809192311_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--C9634_C9634.pdf
+C7950,LM358DR2G,SOIC-8,247565,运算放大器，单电源，双路,Operational Amplifier,base,,,https://datasheet.lcsc.com/lcsc/1811100911_onsemi-LM358DR2G-_C7950.pdf
+C1658,0603CG300J500NT,0603,243795,30pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261611_FH--Guangdong-Fenghua-Advanced-Tech-0603CG300J500NT_C1658.pdf
+C22807,0603WAF1503T5E,0603,225096,150kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1503T5E_C22807.pdf
+C20197,4D03WGJ0102T5E,0603x4,213124,1kΩ ±5%,Resistor Networks & Arrays,base,,,https://datasheet.lcsc.com/lcsc/1810311812_UNI-ROYAL-Uniroyal-Elec-4D03WGJ0102T5E_C20197.pdf
+C25779,0402WGF3302TCE,0402,200211,33kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF3302TCE_C25779.pdf
+C22938,0603WAF2204T5E,0603,198385,2.2MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF2204T5E_C22938.pdf
+C22939,0603WAF220KT5E,0603,192737,2.2Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF220KT5E_C22939.pdf
+C5605,"74HC14D,653",SOIC-14,191755,"74HC14D,653",Inverters,base,,,https://datasheet.lcsc.com/lcsc/1811141851_Nexperia-74HC14D-653_C5605.pdf
+C22980,0603WAF3601T5E,0603,187178,3.6kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3601T5E_C22980.pdf
+C23254,0603WAF8202T5E,0603,186440,82kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF8202T5E_C23254.pdf
+C1615,0603B334K250NT,0603,185110,330nF ±10% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603B334K250NT_C1615.pdf
+C25771,0402WGF2702TCE,0402,180817,27kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF2702TCE_C25771.pdf
+C2488,MB10S,MBS,172843,1kV 1A 大芯片  .,Bridge Rectifiers,base,,,https://datasheet.lcsc.com/lcsc/2105061432_MDD-Microdiode-Electronics--MB10S_C2488.pdf
+C25981,0603WAF8201T5E,0603,161454,8.2kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF8201T5E_C25981.pdf
+C107045,CC0603JRNPO9BN270,0603,141429,27pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811082127_YAGEO-CC0603JRNPO9BN270_C107045.pdf
+C23265,0603WAF9102T5E,0603,138934,91kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF9102T5E_C23265.pdf
+C1594,0603B151K500NT,0603,133017,150pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061810_FH--Guangdong-Fenghua-Advanced-Tech-0603B151K500NT_C1594.pdf
+C17802,0805W8F680JT5E,0805,122671,68Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F680JT5E_C17802.pdf
+C7955,LM393DR2G,SOIC-8,115470,比较器，双，低偏移电压,Comparators,base,,,https://datasheet.lcsc.com/lcsc/1809171611_onsemi-LM393DR2G_C7955.pdf
+C1559,0402CG2R2C500NT,0402,113787,2.2pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141843_FH--Guangdong-Fenghua-Advanced-Tech-0402CG2R2C500NT_C1559.pdf
+C23147,0603WAF3602T5E,0603,112968,36kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3602T5E_C23147.pdf
+C17521,0805W8F220KT5E,0805,112400,2.2Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F220KT5E_C17521.pdf
+C17801,0805W8F6802T5E,0805,107974,68kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6802T5E_C17801.pdf
+C25767,0402WGF2203TCE,0402,102375,220kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF2203TCE_C25767.pdf
+C1631,0603B682K500NT,0603,87866,6.8nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603B682K500NT_C1631.pdf
+C17818,0805W8F7500T5E,0805,87621,750Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F7500T5E_C17818.pdf
+C28262,CL10C680JB8NNNC,0603,80721,68pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261521_Samsung-Electro-Mechanics-CL10C680JB8NNNC_C28262.pdf
+C1846,1206B103K500NT,1206,73185,10nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811051111_FH--Guangdong-Fenghua-Advanced-Tech-1206B103K500NT_C1846.pdf
+C7377,MCP6002T-I/SN,SOIC-8,67209,MCP6002T-I/SN,Operational Amplifier,base,,,https://datasheet.lcsc.com/lcsc/1811081213_Microchip-Tech-MCP6002T-I-SN--_C7377.pdf
+C13482,SP3232EEY-L/TR,TSSOP-16,65670,收发器 235Kbps,RS232 ICs,base,,,https://datasheet.lcsc.com/lcsc/1810111814_MaxLinear-SP3232EEY-L-TR_C13482.pdf
+C13533,CL05C331JB5NNNC,0402,65471,330pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810192025_Samsung-Electro-Mechanics-CL05C331JB5NNNC_C13533.pdf
+C23170,0603WAF4300T5E,0603,63650,430Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4300T5E_C23170.pdf
+C75501,78L12G-AB3-R,SOT-89-3,62853,正 Vin=35V Vout=12V 100mA,Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1810271811_UTC-Unisonic-Tech-78L12G-AB3-R_C75501.pdf
+C107145,CC0805KRX7R9BB221,0805,58476,220pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1809281326_YAGEO-CC0805KRX7R9BB221_C107145.pdf
+C7063,SN75176BDR,SOIC-8,56573,SN75176BDR,RS-485/RS-422 ICs,base,,,https://www.ti.com/cn/lit/gpn/sn75176b
+C32346,Q13FC1350000400,SMD3215-2P,55157,32.768kHz ±20ppm 12.5pF,Crystals,base,,,https://datasheet.lcsc.com/lcsc/1810171817_Seiko-Epson-Q13FC1350000400_C32346.pdf
+C110020,6N137S1(TA),SMD,51129,6N137S1 (TA),Optocouplers,base,,,https://datasheet.lcsc.com/szlcsc/1908282202_Everlight-Elec-6N137S1-TA_C110020.pdf
+C5590,"74HC04D,653",SOIC-14,47555,"74HC04D,653",Inverters,base,,,https://datasheet.lcsc.com/lcsc/1808271813_Nexperia-74HC04D-653_C5590.pdf
+C17985,1206W4F7500T5E,1206,46151,750Ω ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F7500T5E_C17985.pdf
+C17695,0805W8F4302T5E,0805,42215,43kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4302T5E_C17695.pdf
+C1716,0805B151K500NT,0805,40443,150pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061722_FH--Guangdong-Fenghua-Advanced-Tech-0805B151K500NT_C1716.pdf
+C1034,SDFL1608Q4R7KTF,0603,39792,4.7uH ±10% 2.1Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDFL1608Q4R7KTF_C1034.pdf
+C1792,0805CG120J500NT,0805,32194,12pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061723_FH--Guangdong-Fenghua-Advanced-Tech-0805CG120J500NT_C1792.pdf
+C1043,CMI201209U2R2KT,0805,30089,2.2uH ±10% 600mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1811061719_FH--Guangdong-Fenghua-Advanced-Tech-CMI201209U2R2KT_C1043.pdf
+C52717,STM8S003F3P6TR,TSSOP-20,28117,STM8 16MHz 闪存：8K@x8bit RAM：1KB,Microcontroller Units (MCUs/MPUs/SOCs),base,,,https://datasheet.lcsc.com/lcsc/1811121205_STMicroelectronics-STM8S003F3P6TR_C52717.pdf
+C1576,0402CG6R8C500NT,0402,27554,6.8pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG6R8C500NT_C1576.pdf
+C6482,AT24C256C-SSHL-T,SOIC-8,25073,AT24C256C-SSHL-T,EEPROM,base,,,https://datasheet.lcsc.com/lcsc/1809151932_Microchip-Tech-AT24C256C-SSHL-T_C6482.pdf
+C22107,1206W4F1204T5E,1206,21871,1.2MΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-1206W4F1204T5E_C22107.pdf
+C32375,SDFL2012T220KTF,0805,16904,22uH ±10% 1.1Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDFL2012T220KTF_C32375.pdf
+C55961,STM8S103F3P6,TSSOP-20,1728,STM8,ST Microelectronics,base,,,https://datasheet.lcsc.com/lcsc/1809192122_STMicroelectronics-STM8S103F3P6_C55961.pdf
+C2990473,SMF6.0CA,SOD-123FL,831,双向 Vrwm:6V 200W,TVS,base,,,https://datasheet.lcsc.com/lcsc/2205181716_Liown-SMF6-0CA_C2990473.pdf
+C21189,0603WAF0000T5E,0603,5111620,0Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF0000T5E_C21189.pdf
+C15850,CL21A106KAYNNNE,0805,4631341,10uF ±10% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811121310_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf
+C25741,0402WGF1003TCE,0402,4517798,100kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1003TCE_C25741.pdf
+C1588,CL10B102KB8NNNC,0603,3818106,1nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811071810_Samsung-Electro-Mechanics-CL10B102KB8NNNC_C1588.pdf
+C14858,CL10C101JB8NNNC,0603,3242800,100pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151136_Samsung-Electro-Mechanics-CL10C101JB8NNNC_C14858.pdf
+C8326,MMBT5401,SOT-23,2814312,PNP 150V 600mA H档200-300,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1809140241_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MMBT5401_C8326.pdf
+C1595,0603B152K500NT,0603,2731455,1.5nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061810_FH--Guangdong-Fenghua-Advanced-Tech-0603B152K500NT_C1595.pdf
+C22859,0603WAF100JT5E,0603,2477629,10Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF100JT5E_C22859.pdf
+C17408,0805W8F1000T5E,0805,1967690,100Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1000T5E_C17408.pdf
+C4190,0603WAF2201T5E,0603,1900588,2.2kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF2201T5E_C4190.pdf
+C17604,0805W8F2001T5E,0805,1809678,2kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2001T5E_C17604.pdf
+C17477,0805W8F0000T5E,0805,1538613,0Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F0000T5E_C17477.pdf
+C8598,B5819W SL,SOD-123,1401664,40V 1A 600mV@1A,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/1809140216_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--B5819W-SL_C8598.pdf
+C3113,CJ431,SOT-23-3,1333760,2.5V~36V 100mA,Voltage References,base,,,https://datasheet.lcsc.com/lcsc/1809140322_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--CJ431--_C3113.pdf
+C23193,0603WAF5100T5E,0603,1317709,510Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF5100T5E_C23193.pdf
+C17901,1206W4F1000T5E,1206,1118400,100Ω ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1000T5E_C17901.pdf
+C17902,1206W4F1002T5E,1206,1060066,10kΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1002T5E_C17902.pdf
+C23138,0603WAF3300T5E,0603,985451,330Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3300T5E_C23138.pdf
+C17900,1206W4F1003T5E,1206,857405,100kΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1003T5E_C17900.pdf
+C1550,0402CG1R0C500NT,0402,817468,1pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG1R0C500NT_C1550.pdf
+C17887,1206W4F3000T5E,1206,750979,300Ω ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-1206W4F3000T5E_C17887.pdf
+C8543,S9012 2T1,SOT-23,745080,PNP 25V 500mA (200-350),Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1809181212_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--S9012-2T1_C8543.pdf
+C6649,EL357N(B)(TA)-G,SOP-4-2.54,744916,EL357N(B)(TA)-G,Optocouplers - Phototransistor Output,base,,,https://datasheet.lcsc.com/lcsc/1809192312_Everlight-Elec-EL357N-B-TA-G_C6649.pdf
+C22787,0603WAF1200T5E,0603,674402,120Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1200T5E_C22787.pdf
+C17557,0805W8F2200T5E,0805,655841,220Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf
+C22962,0603WAF2200T5E,0603,617815,220Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF2200T5E_C22962.pdf
+C17617,0805W8F3000T5E,0805,604913,300Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3000T5E_C17617.pdf
+C1604,0603B222K500NT,0603,587432,2.2nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810301614_FH--Guangdong-Fenghua-Advanced-Tech-0603B222K500NT_C1604.pdf
+C1547,0402CG120J500NT,0402,559556,12pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG120J500NT_C1547.pdf
+C25120,0402WGF499JTCE,0402,548062,49.9Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF499JTCE_C25120.pdf
+C25756,0402WGF1502TCE,0402,521939,15kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1502TCE_C25756.pdf
+C1644,CL10C150JB8NNNC,0603,513244,15pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261515_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf
+C1603,CL10B221KB8NNNC,0603,458543,220pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261515_Samsung-Electro-Mechanics-CL10B221KB8NNNC_C1603.pdf
+C17560,0805W8F2202T5E,0805,447943,22kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2202T5E_C17560.pdf
+C4275,0603WAF750JT5E,0603,426785,75Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAF750JT5E_C4275.pdf
+C25774,0402WGF3003TCE,0402,416315,300kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF3003TCE_C25774.pdf
+C15127,AO3401A,SOT-23,409380,P沟道 30V 4A,MOSFETs,base,,,https://datasheet.lcsc.com/lcsc/1810171817_Alpha---Omega-Semicon-AO3401A_C15127.pdf
+C5947,"74HC595D,118",SOIC-16,407284,"74HC595D,118",Registers,base,,,https://datasheet.lcsc.com/lcsc/1811021715_Nexperia-74HC595D-118_C5947.pdf
+C22940,0603WAF2401T5E,0603,388247,2.4kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF2401T5E_C22940.pdf
+C1790,CL21C101JBANNNC,0805,378684,100pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810241824_Samsung-Electro-Mechanics-CL21C101JBANNNC_C1790.pdf
+C1051,CMI321609X100KT,1206,365092,10uH ±10% 800mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1810311314_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609X100KT_C1051.pdf
+C22961,0603WAF2203T5E,0603,356211,220kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF2203T5E_C22961.pdf
+C7512,ULN2003ADR,SOIC-16,350398,ULN2003ADR,Darlington Transistor Arrays,base,,,https://www.ti.com/cn/lit/gpn/uln2003a
+C25792,0402WGF4702TCE,0402,346035,47kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf
+C17928,1206W4F100KT5E,1206,322374,1Ω ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F100KT5E_C17928.pdf
+C2296,17-21SUYC/TR8,LED_0805,315693,LED_灯_黄_Iv=95-113_λd=592-594,Light Emitting Diodes (LED),base,,,https://datasheet.lcsc.com/lcsc/1806151129_Hubei-KENTO-Elec-17-21SUYC-TR8_C2296.pdf
+C22765,0603WAF1201T5E,0603,283355,1.2kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1201T5E_C22765.pdf
+C7250,0603WAF1005T5E,0603,262328,10MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAF1005T5E_C7250.pdf
+C1552,0402CG1R5C500NT,0402,246723,1.5pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151132_FH--Guangdong-Fenghua-Advanced-Tech-0402CG1R5C500NT_C1552.pdf
+C23151,0603WAF3900T5E,0603,239885,390Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3900T5E_C23151.pdf
+C1549,0402CG180J500NT,0402,229038,18pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141814_FH--Guangdong-Fenghua-Advanced-Tech-0402CG180J500NT_C1549.pdf
+C1744,0805B472K500NT,0805,217357,4.7nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061719_FH--Guangdong-Fenghua-Advanced-Tech-0805B472K500NT_C1744.pdf
+C4177,0603WAF1801T5E,0603,211932,1.8kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF1801T5E_C4177.pdf
+C8062,ZMM5V6-M,LL-34,207196,5.6V 500mW,Zener Diodes,base,,,https://datasheet.lcsc.com/lcsc/1809301122_ST-Semtech-ZMM5V6-M_C8062.pdf
+C1565,0402CG3R3C500NT,0402,205867,3.3pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG3R3C500NT_C1565.pdf
+C1647,CL10C180JB8NNNC,0603,205764,18pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261621_Samsung-Electro-Mechanics-CL10C180JB8NNNC_C1647.pdf
+C1739,0805B333K500NT,0805,183402,33nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061723_FH--Guangdong-Fenghua-Advanced-Tech-0805B333K500NT_C1739.pdf
+C23221,0603WAF6202T5E,0603,179269,62kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF6202T5E_C23221.pdf
+C24278,B772,SOT-89-3,178282,PNP 30V 3A 160-320,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1809211023_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--B772_C24278.pdf
+C22797,0603WAF1302T5E,0603,157007,13kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1302T5E_C22797.pdf
+C25897,0402WGF4992TCE,0402,149203,49.9kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF4992TCE_C25897.pdf
+C11616,0402WGF5103TCE,0402,132400,510kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF5103TCE_C11616.pdf
+C7433,OP07CDR,SOIC-8,131996,OP07CDR,Precision OpAmps,base,,,http://www.ti.com/cn/lit/gpn/op07c
+C17797,0805W8F6803T5E,0805,129976,680kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6803T5E_C17797.pdf
+C51721,0402WGF3901TCE,0402,129817,3.9kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010000_UNI-ROYAL-Uniroyal-Elec-0402WGF3901TCE_C51721.pdf
+C17924,1206W4F1800T5E,1206,126842,180Ω ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1800T5E_C17924.pdf
+C25196,0603WAF560JT5E,0603,121633,56Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0603WAF560JT5E_C25196.pdf
+C23163,0603WAF4704T5E,0603,117467,4.7MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4704T5E_C23163.pdf
+C23220,0603WAF6200T5E,0603,117256,620Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF6200T5E_C23220.pdf
+C25798,0402WGF7502TCE,0402,113421,75kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF7502TCE_C25798.pdf
+C22966,0603WAF2700T5E,0603,113251,270Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF2700T5E_C22966.pdf
+C25805,0603WAF1103T5E,0603,108321,110kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1103T5E_C25805.pdf
+C25130,0402WGF6800TCE,0402,105981,680Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF6800TCE_C25130.pdf
+C5446,XC6206P332MR,SOT-23,94075,正 Vin=6V Vout=3.3V 200mA,Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1809201513_Torex-Semicon-XC6206P332MR_C5446.pdf
+C1046,SDFL2012S100KTF,0805,91889,10uH ±10% 1.15Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDFL2012S100KTF_C1046.pdf
+C17575,0805W8F2402T5E,0805,86331,24kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2402T5E_C17575.pdf
+C17807,0805W8F7501T5E,0805,85613,7.5kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F7501T5E_C17807.pdf
+C23137,0603WAF3303T5E,0603,85548,330kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3303T5E_C23137.pdf
+C17757,0805W8F560JT5E,0805,84889,56Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F560JT5E_C17757.pdf
+C8056,ZMM3V3-M,LL-34,78337,3.3V 500mW,Zener Diodes,base,,,https://datasheet.lcsc.com/lcsc/1811142211_ST-Semtech-ZMM3V3-M_C8056.pdf
+C25783,0402WGF3902TCE,0402,69973,39kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF3902TCE_C25783.pdf
+C35722,SS36-E3/57T,SMC(DO-214AB),60096,60V 3A 750mV@3A,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/1809042323_Vishay-Intertech-SS36-E3-57T_C35722.pdf
+C22827,0603WAF1803T5E,0603,59543,180kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1803T5E_C22827.pdf
+C4172,0603WAF1504T5E,0603,55013,1.5MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF1504T5E_C4172.pdf
+C17455,0805W8F1302T5E,0805,47385,13kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1302T5E_C17455.pdf
+C1857,1206B224K500NT,1206,41496,220nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810311313_FH--Guangdong-Fenghua-Advanced-Tech-1206B224K500NT_C1857.pdf
+C17490,0805W8F1602T5E,0805,40881,16kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1602T5E_C17490.pdf
+C1049,CMI321609U4R7KT,1206,38537,4.7uH ±10% 650mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1810311322_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609U4R7KT_C1049.pdf
+C9865,TPS54331DR,SOIC-8,35113,降压型,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/tps54331
+C7722,TPS61040DBVR,SOT-23-5,31490,升压型 Vin=1.8V~6V Vout=28V 350mA,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/tps61040
+C17429,0805W8F1102T5E,0805,30587,11kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1102T5E_C17429.pdf
+C6568,CP2102-GMR,WQFN-28-EP(5x5),20023,CP2102-GMR,USB ICs,base,,,https://datasheet.lcsc.com/lcsc/1811081920_SILICON-LABS-CP2102-GMR_C6568.pdf
+C6521,CD4052BM96,SOIC-16,11366,CD4052BM96,Analog Switches / Multiplexers,base,,,https://www.ti.com/cn/lit/gpn/cd4052b
+C14877,ATMEGA328P-AU,TQFP-32(7x7),10109,AVR 20MHz 闪存：16K@x16bit RAM：2KB,Microcontroller Units (MCUs/MPUs/SOCs),base,,,https://datasheet.lcsc.com/lcsc/1809101618_Microchip-Tech-ATMEGA328P-AU_C14877.pdf
+C7562,M24C02-WMN6TP,SOIC-8,10103,M24C02-WMN6TP,EEPROM,base,,,https://datasheet.lcsc.com/lcsc/1809061818_STMicroelectronics-M24C02-WMN6TP_C7562.pdf
+C19579,TM1620,SOIC-20-300mil,4710,TM1620(TA0702F),LED Display Drivers,base,,,https://datasheet.lcsc.com/lcsc/1811132321_TM-Shenzhen-Titan-Micro-Elec-TM1620_C19579.pdf
+C9683,ULN2803ADWR,SOIC-18-300mil,4676,ULN2803ADWR,Darlington Transistor Arrays,base,,,https://www.ti.com/cn/lit/gpn/uln2803a
+C3019524,P6SMAJ33CA,SMA,2727,双向 Vrwm:33V 600W,TVS,base,,,https://datasheet.lcsc.com/lcsc/2205231816_Liown-P6SMAJ33CA_C3019524.pdf
+C2925443,SMAJ5.0A,SMA(DO-214AC),1674,单向 Vrwm:5V 400W,TVS,base,,,https://datasheet.lcsc.com/lcsc/2202141600_Liown-SMAJ5-0A_C2925443.pdf
+C2990414,5.0SMDJ64CA,SMC,2,双向 Vrwm:64V 5kW,TVS,base,,,https://datasheet.lcsc.com/lcsc/2205231745_Liown-5-0SMDJ64CA_C2990414.pdf
+C15850,CL21A106KAYNNNE,0805,4631341,10uF ±10% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811121310_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf
+C1588,CL10B102KB8NNNC,0603,3818106,1nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811071810_Samsung-Electro-Mechanics-CL10B102KB8NNNC_C1588.pdf
+C14858,CL10C101JB8NNNC,0603,3242800,100pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151136_Samsung-Electro-Mechanics-CL10C101JB8NNNC_C14858.pdf
+C8326,MMBT5401,SOT-23,2814312,PNP 150V 600mA H档200-300,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1809140241_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MMBT5401_C8326.pdf
+C1595,0603B152K500NT,0603,2731455,1.5nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061810_FH--Guangdong-Fenghua-Advanced-Tech-0603B152K500NT_C1595.pdf
+C46219,0603CG3R0C500NT,0603,2587054,3pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061821_FH--Guangdong-Fenghua-Advanced-Tech-0603CG3R0C500NT_C46219.pdf
+C17408,0805W8F1000T5E,0805,1967690,100Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1000T5E_C17408.pdf
+C4190,0603WAF2201T5E,0603,1900588,2.2kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF2201T5E_C4190.pdf
+C17604,0805W8F2001T5E,0805,1809678,2kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2001T5E_C17604.pdf
+C17477,0805W8F0000T5E,0805,1538613,0Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F0000T5E_C17477.pdf
+C45783,CL21A226MAQNNNE,0805,1510874,22uF ±20% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151152_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf
+C81598,1N4148W,SOD-123,1403546,75V 150mA 4ns,Switching Diode,base,,,https://datasheet.lcsc.com/lcsc/1811061725_ST-Semtech-1N4148W_C81598.pdf
+C8598,B5819W SL,SOD-123,1401664,40V 1A 600mV@1A,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/1809140216_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--B5819W-SL_C8598.pdf
+C3113,CJ431,SOT-23-3,1333760,2.5V~36V 100mA,Voltage References,base,,,https://datasheet.lcsc.com/lcsc/1809140322_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--CJ431--_C3113.pdf
+C17901,1206W4F1000T5E,1206,1118400,100Ω ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1000T5E_C17901.pdf
+C17902,1206W4F1002T5E,1206,1060066,10kΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1002T5E_C17902.pdf
+C17900,1206W4F1003T5E,1206,857405,100kΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1003T5E_C17900.pdf
+C1550,0402CG1R0C500NT,0402,817468,1pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG1R0C500NT_C1550.pdf
+C17887,1206W4F3000T5E,1206,750979,300Ω ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-1206W4F3000T5E_C17887.pdf
+C8543,S9012 2T1,SOT-23,745080,PNP 25V 500mA (200-350),Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1809181212_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--S9012-2T1_C8543.pdf
+C6649,EL357N(B)(TA)-G,SOP-4-2.54,744916,EL357N(B)(TA)-G,Optocouplers - Phototransistor Output,base,,,https://datasheet.lcsc.com/lcsc/1809192312_Everlight-Elec-EL357N-B-TA-G_C6649.pdf
+C17557,0805W8F2200T5E,0805,655841,220Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf
+C17617,0805W8F3000T5E,0805,604913,300Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3000T5E_C17617.pdf
+C1604,0603B222K500NT,0603,587432,2.2nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810301614_FH--Guangdong-Fenghua-Advanced-Tech-0603B222K500NT_C1604.pdf
+C1547,0402CG120J500NT,0402,559556,12pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG120J500NT_C1547.pdf
+C1644,CL10C150JB8NNNC,0603,513244,15pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261515_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf
+C31850,0603WAF2202T5E,0603,487918,22kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0603WAF2202T5E_C31850.pdf
+C28233,CL21B104KCFNNNE,0805,471509,100nF ±10% 100V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810191216_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf
+C1603,CL10B221KB8NNNC,0603,458543,220pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261515_Samsung-Electro-Mechanics-CL10B221KB8NNNC_C1603.pdf
+C17560,0805W8F2202T5E,0805,447943,22kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2202T5E_C17560.pdf
+C4275,0603WAF750JT5E,0603,426785,75Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAF750JT5E_C4275.pdf
+C15127,AO3401A,SOT-23,409380,P沟道 30V 4A,MOSFETs,base,,,https://datasheet.lcsc.com/lcsc/1810171817_Alpha---Omega-Semicon-AO3401A_C15127.pdf
+C5947,"74HC595D,118",SOIC-16,407284,"74HC595D,118",Registers,base,,,https://datasheet.lcsc.com/lcsc/1811021715_Nexperia-74HC595D-118_C5947.pdf
+C1790,CL21C101JBANNNC,0805,378684,100pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810241824_Samsung-Electro-Mechanics-CL21C101JBANNNC_C1790.pdf
+C1051,CMI321609X100KT,1206,365092,10uH ±10% 800mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1810311314_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609X100KT_C1051.pdf
+C7512,ULN2003ADR,SOIC-16,350398,ULN2003ADR,Darlington Transistor Arrays,base,,,https://www.ti.com/cn/lit/gpn/uln2003a
+C2296,17-21SUYC/TR8,LED_0805,315693,LED_灯_黄_Iv=95-113_λd=592-594,Light Emitting Diodes (LED),base,,,https://datasheet.lcsc.com/lcsc/1806151129_Hubei-KENTO-Elec-17-21SUYC-TR8_C2296.pdf
+C38523,CL10C120JB8NNNC,0603,292970,12pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261515_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.pdf
+C34499,C34499,0805,285431,0805白灯（300-360mcd) SMT业务专用,Light Emitting Diodes (LED),base,,,https://nw.jlcerp.com/overseas-manage/pdfjs/web/viewer.html?file=%2Foverseas-manage%2Femail%2FdownloadByFileNo%3FfileNo%3D94529e18c5284a3081d8a14987ad6aeb%26type%3D1
+C20638,0805W8F750JT5E,0805,278008,75Ω (75R0) ±1%,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/1810301611_UNI-ROYAL-Uniroyal-Elec-0805W8F750JT5E_C20638.pdf
+C7250,0603WAF1005T5E,0603,262328,10MΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAF1005T5E_C7250.pdf
+C25752,0402WGF1202TCE,0402,230307,12kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1202TCE_C25752.pdf
+C1549,0402CG180J500NT,0402,229038,18pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141814_FH--Guangdong-Fenghua-Advanced-Tech-0402CG180J500NT_C1549.pdf
+C1744,0805B472K500NT,0805,217357,4.7nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061719_FH--Guangdong-Fenghua-Advanced-Tech-0805B472K500NT_C1744.pdf
+C4177,0603WAF1801T5E,0603,211932,1.8kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF1801T5E_C4177.pdf
+C8062,ZMM5V6-M,LL-34,207196,5.6V 500mW,Zener Diodes,base,,,https://datasheet.lcsc.com/lcsc/1809301122_ST-Semtech-ZMM5V6-M_C8062.pdf
+C1647,CL10C180JB8NNNC,0603,205764,18pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261621_Samsung-Electro-Mechanics-CL10C180JB8NNNC_C1647.pdf
+C107114,CC0805JRNPO9BN300,0805,187850,30pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810311413_YAGEO-CC0805JRNPO9BN300_C107114.pdf
+C29718,4D03WGJ0103T5E,0603x4,185527,10kΩ ±5%,Resistor Networks & Arrays,base,,,https://datasheet.lcsc.com/lcsc/1810191515_UNI-ROYAL-Uniroyal-Elec-4D03WGJ0103T5E_C29718.pdf
+C1739,0805B333K500NT,0805,183402,33nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061723_FH--Guangdong-Fenghua-Advanced-Tech-0805B333K500NT_C1739.pdf
+C27592,0603WAF680JT5E,0603,179494,68Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0603WAF680JT5E_C27592.pdf
+C26112,0805W8F2004T5E,0805,161457,2MΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0805W8F2004T5E_C26112.pdf
+C8492,LBSS84LT1G,SOT-23,149466,P沟道 50V 130mA,MOSFETs,base,,,https://datasheet.lcsc.com/lcsc/1811031711_LRC-LBSS84LT1G_C8492.pdf
+C17436,0805W8F1203T5E,0805,141819,120kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1203T5E_C17436.pdf
+C17616,0805W8F3003T5E,0805,141677,300kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3003T5E_C17616.pdf
+C11616,0402WGF5103TCE,0402,132400,510kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF5103TCE_C11616.pdf
+C7433,OP07CDR,SOIC-8,131996,OP07CDR,Precision OpAmps,base,,,http://www.ti.com/cn/lit/gpn/op07c
+C1561,0402CG2R7C500NT,0402,129224,2.7pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG2R7C500NT_C1561.pdf
+C25725,4D02WGJ0103TCE,0402x4,119950,10kΩ ±5%,Resistor Networks & Arrays,base,,,https://datasheet.lcsc.com/lcsc/1810170420_UNI-ROYAL-Uniroyal-Elec-4D02WGJ0103TCE_C25725.pdf
+C5593,"74HC08D,653",SOIC-14,109229,与门,Gates,base,,,https://datasheet.lcsc.com/lcsc/2006241032_Nexperia-74HC08D-653_C5593.pdf
+C23146,0603WAF3603T5E,0603,108320,360kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3603T5E_C23146.pdf
+C27143,SDCL1005C15NJTDF,0402,100263,15nH ±5% 500mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDCL1005C15NJTDF_C27143.pdf
+C17837,0805W8F8200T5E,0805,99688,820Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F8200T5E_C17837.pdf
+C53134,CL21B473KBCNNNC,0805,95160,47nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811091614_Samsung-Electro-Mechanics-CL21B473KBCNNNC_C53134.pdf
+C5446,XC6206P332MR,SOT-23,94075,正 Vin=6V Vout=3.3V 200mA,Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1809201513_Torex-Semicon-XC6206P332MR_C5446.pdf
+C1046,SDFL2012S100KTF,0805,91889,10uH ±10% 1.15Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDFL2012S100KTF_C1046.pdf
+C17575,0805W8F2402T5E,0805,86331,24kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2402T5E_C17575.pdf
+C17807,0805W8F7501T5E,0805,85613,7.5kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F7501T5E_C17807.pdf
+C22810,0603WAF150JT5E,0603,82411,15Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF150JT5E_C22810.pdf
+C8056,ZMM3V3-M,LL-34,78337,3.3V 500mW,Zener Diodes,base,,,https://datasheet.lcsc.com/lcsc/1811142211_ST-Semtech-ZMM3V3-M_C8056.pdf
+C17756,0805W8F5602T5E,0805,73907,56kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F5602T5E_C17756.pdf
+C22764,0603WAF1101T5E,0603,68276,1.1kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1101T5E_C22764.pdf
+C37474,0603CG6R0C500NT,0603,64390,6pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061822_FH--Guangdong-Fenghua-Advanced-Tech-0603CG6R0C500NT_C37474.pdf
+C5377,DB107S,DBS,64180,1kV 1A,Bridge Rectifiers,base,,,https://datasheet.lcsc.com/lcsc/2105061435_MDD-Microdiode-Electronics--DB107S_C5377.pdf
+C25790,0402WGF4703TCE,0402,61448,470kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF4703TCE_C25790.pdf
+C1527,0402B151K500NT,0402,59689,150pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810302110_FH--Guangdong-Fenghua-Advanced-Tech-0402B151K500NT_C1527.pdf
+C25969,0603WAF4303T5E,0603,57779,430kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF4303T5E_C25969.pdf
+C1685,0603CG8R2C500NT,0603,55118,8.2pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603CG8R2C500NT_C1685.pdf
+C31658,CL10B683KB8NNNC,0603,50084,68nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811072020_Samsung-Electro-Mechanics-CL10B683KB8NNNC_C31658.pdf
+C18229,LM2904DR2G,SOIC-8,47549,运算放大器，单电源，双路,Operational Amplifier,base,,,https://datasheet.lcsc.com/lcsc/1811012110_onsemi-LM2904DR2G_C18229.pdf
+C1596,0603B153K500NT,0603,43836,15nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061810_FH--Guangdong-Fenghua-Advanced-Tech-0603B153K500NT_C1596.pdf
+C35216,CL31B102KGFNNNE,1206,38653,1nF ±10% 500V 【停产】,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810221111_Samsung-Electro-Mechanics-CL31B102KGFNNNE_C35216.pdf
+C1585,C1585,0402,37575,33nF (333) ±20% 50V Y5V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141711_FH--Guangdong-Fenghua-Advanced-Tech-C1585_C1585.pdf
+C9865,TPS54331DR,SOIC-8,35113,降压型,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/tps54331
+C22813,0603WAF1603T5E,0603,28516,160kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1603T5E_C22813.pdf
+C41327,TM1640,SOIC-28-300mil,22242,TM1640,LED Display Drivers,base,,,https://datasheet.lcsc.com/lcsc/2101251932_TM-Shenzhen-Titan-Micro-Elec-TM1640_C41327.pdf
+C6568,CP2102-GMR,WQFN-28-EP(5x5),20023,CP2102-GMR,USB ICs,base,,,https://datasheet.lcsc.com/lcsc/1811081920_SILICON-LABS-CP2102-GMR_C6568.pdf
+C7532,HT1621B,LQFP-48(7x7),17313,HT1621B,LCD Drivers,base,,,https://datasheet.lcsc.com/lcsc/1809121513_Holtek-Semicon-HT1621B_C7532.pdf
+C112574,X5032110592MSB2GI,SMD5032-2P,16673,YSX530GA 11.0592MHz ±10ppm 20pF,Crystals,base,,,https://datasheet.lcsc.com/lcsc/2103291134_Yangxing-Tech-X5032110592MSB2GI_C112574.pdf
+C8959,DS1302Z+T&R,SOIC-8,16580,DS1302Z+T&R,Real-time Clocks (RTC),base,,,https://datasheet.lcsc.com/lcsc/1811071513_Maxim-Integrated-DS1302Z-T-R_C8959.pdf
+C75510,LM317AG-TN3-R,TO-252-2(DPAK),11357,正 Vin=40V Vout=1.2V~37V 1.5A,Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1810271112_UTC-Unisonic-Tech-LM317AG-TN3-R_C75510.pdf
+C14877,ATMEGA328P-AU,TQFP-32(7x7),10109,AVR 20MHz 闪存：16K@x16bit RAM：2KB,Microcontroller Units (MCUs/MPUs/SOCs),base,,,https://datasheet.lcsc.com/lcsc/1809101618_Microchip-Tech-ATMEGA328P-AU_C14877.pdf
+C7562,M24C02-WMN6TP,SOIC-8,10103,M24C02-WMN6TP,EEPROM,base,,,https://datasheet.lcsc.com/lcsc/1809061818_STMicroelectronics-M24C02-WMN6TP_C7562.pdf
+C21379,CD4051BM96,SOIC-16-150mil,9457,CD4051BM96,Analog Switches / Multiplexers,base,,,https://www.ti.com/cn/lit/gpn/cd4051b
+C68035,MLF2012C101KT000,0805,8301,100uH ±10% 2.5Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1810162253_TDK-MLF2012C101KT000_C68035.pdf
+C10002,LM2596SX-5.0/NOPB,TO-263-5,7811,降压型 Vin=4.5V~40V Vout=5V 3A,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/lm2596
+C34465,LM2576SX-5.0/NOPB,TO-263-5,7735,降压型 Vin=4V~40V Vout=5V 3A,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/lm2576
+C2990493,SMF30CA,SOD-123FL,1553,双向 Vrwm:30V 200W,TVS,base,,,https://datasheet.lcsc.com/lcsc/2205231816_Liown-SMF30CA_C2990493.pdf
+C719499,FEMDRM008G-58A39,FBGA-153,145,8Gbit,eMMC,base,,,https://datasheet.lcsc.com/lcsc/2207261800_FORESEE-FEMDRM008G-58A39_C719499.pdf
+C5126825,F35UQA512M-WWT,WSON-8,2,512Mbit 1.8V,NAND FLASH,base,,,https://datasheet.lcsc.com/lcsc/2210121130_FORESEE-F35UQA512M-WWT_C5126825.pdf
+C2145,MMBT5551,SOT-23-3,5768366,NPN 160V 600mA,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/1810190020_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MMBT5551_C2145.pdf
+C13585,CL31A106KBHNNNE,1206,3549303,10uF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf
+C9808,LL4148,LL-34,2994927,75V 200mA 4ns,Switching Diode,base,,,https://datasheet.lcsc.com/lcsc/1811091932_ST-Semtech-LL4148_C9808.pdf
+C46219,0603CG3R0C500NT,0603,2587054,3pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061821_FH--Guangdong-Fenghua-Advanced-Tech-0603CG3R0C500NT_C46219.pdf
+C1546,0402CG101J500NT,0402,2202050,100pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810151218_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf
+C2286,KT-0603R,LED_0603,1862348,LED_灯_红_Iv=100-120_λd=615-630,Light Emitting Diodes (LED),base,,,https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf
+C45783,CL21A226MAQNNNE,0805,1510874,22uF ±20% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151152_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf
+C81598,1N4148W,SOD-123,1403546,75V 150mA 4ns,Switching Diode,base,,,https://datasheet.lcsc.com/lcsc/1811061725_ST-Semtech-1N4148W_C81598.pdf
+C25077,0402WGF100JTCE,0402,1350666,10Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF100JTCE_C25077.pdf
+C17415,0805W8F100JT5E,0805,1347193,10Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F100JT5E_C17415.pdf
+C25092,0402WGF220JTCE,0402,1216732,22Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF220JTCE_C25092.pdf
+C2480,SS14,SMA(DO-214AC),1022763,40V 1A 550mV@1A 框架工艺,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/2204121115_MDD-Microdiode-Electronics--SS14_C2480.pdf
+C6186,AMS1117-3.3,SOT-223-3,981912,正 Vout=3.3V 1A 72dB@(120Hz),Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1811142212_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.pdf
+C8678,SS34,SMA(DO-214AC),939052,40V 3A 550mV@3A,Schottky Barrier Diodes (SBD),base,,,https://datasheet.lcsc.com/lcsc/2204121115_MDD-Microdiode-Electronics--SS34_C8678.pdf
+C4328,0805W8F2002T5E,0805,857107,20kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F2002T5E_C4328.pdf
+C4211,0603WAF3001T5E,0603,816812,3kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF3001T5E_C4211.pdf
+C17471,0805W8F1500T5E,0805,497637,150Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1500T5E_C17471.pdf
+C31850,0603WAF2202T5E,0603,487918,22kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0603WAF2202T5E_C31850.pdf
+C28233,CL21B104KCFNNNE,0805,471509,100nF ±10% 100V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810191216_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf
+C1663,CL10C330JB8NNNC,0603,444065,33pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151146_Samsung-Electro-Mechanics-CL10C330JB8NNNC_C1663.pdf
+C1548,0402CG150J500NT,0402,353959,15pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810111610_FH--Guangdong-Fenghua-Advanced-Tech-0402CG150J500NT_C1548.pdf
+C25271,0805W8F100KT5E,0805,351684,1Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0805W8F100KT5E_C25271.pdf
+C13967,CL21B474KBFNNNE,0805,344966,470nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810251812_Samsung-Electro-Mechanics-CL21B474KBFNNNE_C13967.pdf
+C17444,0805W8F1202T5E,0805,330724,12kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1202T5E_C17444.pdf
+C25750,0402WGF1203TCE,0402,299878,120kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1203TCE_C25750.pdf
+C38523,CL10C120JB8NNNC,0603,292970,12pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261515_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.pdf
+C34499,C34499,0805,285431,0805白灯（300-360mcd) SMT业务专用,Light Emitting Diodes (LED),base,,,https://nw.jlcerp.com/overseas-manage/pdfjs/web/viewer.html?file=%2Foverseas-manage%2Femail%2FdownloadByFileNo%3FfileNo%3D94529e18c5284a3081d8a14987ad6aeb%26type%3D1
+C20638,0805W8F750JT5E,0805,278008,75Ω (75R0) ±1%,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/1810301611_UNI-ROYAL-Uniroyal-Elec-0805W8F750JT5E_C20638.pdf
+C1557,0402CG270J500NT,0402,247023,27pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG270J500NT_C1557.pdf
+C25123,0402WGF5100TCE,0402,246699,510Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF5100TCE_C25123.pdf
+C5672,CL31A226KPHNNNE,1206,243363,22uF ±10% 10V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810221121_Samsung-Electro-Mechanics-CL31A226KPHNNNE_C5672.pdf
+C25752,0402WGF1202TCE,0402,230307,12kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1202TCE_C25752.pdf
+C1015,GZ2012D101TF,0805,228950,100Ω@100MHz ±25%,Ferrite Beads,base,,,https://datasheet.lcsc.com/lcsc/2111221630_Sunlord-GZ2012D101TF_C1015.pdf
+C17526,0805W8F2401T5E,0805,221200,2.4kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2401T5E_C17526.pdf
+C25133,0402WGF750JTCE,0402,217748,75Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF750JTCE_C25133.pdf
+C5378,CL21B224KBFNNNE,0805,209137,220nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810191222_Samsung-Electro-Mechanics-CL21B224KBFNNNE_C5378.pdf
+C9006,X322525MOB4SI,SMD3225-4P,194821,YSX321SL 25MHz ±10ppm 12pF,Crystals,base,,,https://datasheet.lcsc.com/lcsc/2103291203_Yangxing-Tech-X322525MOB4SI_C9006.pdf
+C17556,0805W8F2203T5E,0805,191428,220kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2203T5E_C17556.pdf
+C107114,CC0805JRNPO9BN300,0805,187850,30pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810311413_YAGEO-CC0805JRNPO9BN300_C107114.pdf
+C29718,4D03WGJ0103T5E,0603x4,185527,10kΩ ±5%,Resistor Networks & Arrays,base,,,https://datasheet.lcsc.com/lcsc/1810191515_UNI-ROYAL-Uniroyal-Elec-4D03WGJ0103T5E_C29718.pdf
+C1798,CL21C200JBANNNC,0805,182613,20pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810191220_Samsung-Electro-Mechanics-CL21C200JBANNNC_C1798.pdf
+C27592,0603WAF680JT5E,0603,179494,68Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0603WAF680JT5E_C27592.pdf
+C25197,0603WAF510KT5E,0603,171648,5.1Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0603WAF510KT5E_C25197.pdf
+C13738,X322516MLB4SI,SMD3225-4P,166793,YSX321SL 16MHz ±10ppm 9pF,Crystals,base,,,https://datasheet.lcsc.com/lcsc/2103291133_Yangxing-Tech-X322516MLB4SI_C13738.pdf
+C26112,0805W8F2004T5E,0805,161457,2MΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0805W8F2004T5E_C26112.pdf
+C12447,0603WAF4022T5E,0603,155938,40.2kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAF4022T5E_C12447.pdf
+C23255,0603WAF820JT5E,0603,154469,82Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF820JT5E_C23255.pdf
+C10487,SI2301CDS-T1-GE3,SOT-23,154300,P沟道 20V 3.1A,MOSFETs,base,,,https://datasheet.lcsc.com/lcsc/1808272021_Vishay-Intertech-SI2301CDS-T1-GE3_C10487.pdf
+C17530,0805W8F2701T5E,0805,153156,2.7kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2701T5E_C17530.pdf
+C8492,LBSS84LT1G,SOT-23,149466,P沟道 50V 130mA,MOSFETs,base,,,https://datasheet.lcsc.com/lcsc/1811031711_LRC-LBSS84LT1G_C8492.pdf
+C25118,0402WGF470JTCE,0402,144569,47Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF470JTCE_C25118.pdf
+C1743,0805B471K500NT,0805,144148,470pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811110920_FH--Guangdong-Fenghua-Advanced-Tech-0805B471K500NT_C1743.pdf
+C1035,SDFL1608S100KTF,0603,142810,10uH ±10% 1.85Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDFL1608S100KTF_C1035.pdf
+C17436,0805W8F1203T5E,0805,141819,120kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1203T5E_C17436.pdf
+C17616,0805W8F3003T5E,0805,141677,300kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3003T5E_C17616.pdf
+C25334,1206W4F100LT5E,1206,138347,100mΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-1206W4F100LT5E_C25334.pdf
+C1561,0402CG2R7C500NT,0402,129224,2.7pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG2R7C500NT_C1561.pdf
+C1530,0402B221K500NT,0402,125999,220pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151132_FH--Guangdong-Fenghua-Advanced-Tech-0402B221K500NT_C1530.pdf
+C25725,4D02WGJ0103TCE,0402x4,119950,10kΩ ±5%,Resistor Networks & Arrays,base,,,https://datasheet.lcsc.com/lcsc/1810170420_UNI-ROYAL-Uniroyal-Elec-4D02WGJ0103TCE_C25725.pdf
+C23260,0603WAF9101T5E,0603,110638,9.1kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF9101T5E_C23260.pdf
+C5593,"74HC08D,653",SOIC-14,109229,与门,Gates,base,,,https://datasheet.lcsc.com/lcsc/2006241032_Nexperia-74HC08D-653_C5593.pdf
+C23146,0603WAF3603T5E,0603,108320,360kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3603T5E_C23146.pdf
+C14857,CL21C470JBANNNC,0805,105578,47pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810191215_Samsung-Electro-Mechanics-CL21C470JBANNNC_C14857.pdf
+C27143,SDCL1005C15NJTDF,0402,100263,15nH ±5% 500mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDCL1005C15NJTDF_C27143.pdf
+C17837,0805W8F8200T5E,0805,99688,820Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F8200T5E_C17837.pdf
+C8963,SP3485EN-L/TR,SOIC-8,96185,10Mbps,RS-485/RS-422 ICs,base,,,https://datasheet.lcsc.com/lcsc/1811021609_MaxLinear-SP3485EN-L-TR_C8963.pdf
+C53134,CL21B473KBCNNNC,0805,95160,47nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811091614_Samsung-Electro-Mechanics-CL21B473KBCNNNC_C53134.pdf
+C22810,0603WAF150JT5E,0603,82411,15Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF150JT5E_C22810.pdf
+C17756,0805W8F5602T5E,0805,73907,56kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F5602T5E_C17756.pdf
+C22764,0603WAF1101T5E,0603,68276,1.1kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1101T5E_C22764.pdf
+C17506,0805W8F1802T5E,0805,65963,18kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1802T5E_C17506.pdf
+C37474,0603CG6R0C500NT,0603,64390,6pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061822_FH--Guangdong-Fenghua-Advanced-Tech-0603CG6R0C500NT_C37474.pdf
+C5377,DB107S,DBS,64180,1kV 1A,Bridge Rectifiers,base,,,https://datasheet.lcsc.com/lcsc/2105061435_MDD-Microdiode-Electronics--DB107S_C5377.pdf
+C25790,0402WGF4703TCE,0402,61448,470kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF4703TCE_C25790.pdf
+C1527,0402B151K500NT,0402,59689,150pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810302110_FH--Guangdong-Fenghua-Advanced-Tech-0402B151K500NT_C1527.pdf
+C7440,"PCF8563T/5,518",SOIC-8,58642,MSL=2,Real-time Clocks (RTC),base,,,https://datasheet.lcsc.com/lcsc/1809141212_NXP-Semicon-PCF8563T-5-518_C7440.pdf
+C25969,0603WAF4303T5E,0603,57779,430kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF4303T5E_C25969.pdf
+C1685,0603CG8R2C500NT,0603,55118,8.2pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603CG8R2C500NT_C1685.pdf
+C31658,CL10B683KB8NNNC,0603,50084,68nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811072020_Samsung-Electro-Mechanics-CL10B683KB8NNNC_C31658.pdf
+C18229,LM2904DR2G,SOIC-8,47549,运算放大器，单电源，双路,Operational Amplifier,base,,,https://datasheet.lcsc.com/lcsc/1811012110_onsemi-LM2904DR2G_C18229.pdf
+C6961,TL072CDT,SOIC-8,47230,TL072CDT,FET InputAmplifiers,base,,,https://datasheet.lcsc.com/lcsc/1809051915_STMicroelectronics-TL072CDT--_C6961.pdf
+C1596,0603B153K500NT,0603,43836,15nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061810_FH--Guangdong-Fenghua-Advanced-Tech-0603B153K500NT_C1596.pdf
+C25270,0805W8F1800T5E,0805,41729,180Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0805W8F1800T5E_C25270.pdf
+C35216,CL31B102KGFNNNE,1206,38653,1nF ±10% 500V 【停产】,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810221111_Samsung-Electro-Mechanics-CL31B102KGFNNNE_C35216.pdf
+C1585,C1585,0402,37575,33nF (333) ±20% 50V Y5V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141711_FH--Guangdong-Fenghua-Advanced-Tech-C1585_C1585.pdf
+C22813,0603WAF1603T5E,0603,28516,160kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1603T5E_C22813.pdf
+C7972,LMV321IDBVR,SOT-23-5,27483,LMV321IDBVR,Operational Amplifier,base,,,https://www.ti.com/cn/lit/gpn/lmv321
+C41327,TM1640,SOIC-28-300mil,22242,TM1640,LED Display Drivers,base,,,https://datasheet.lcsc.com/lcsc/2101251932_TM-Shenzhen-Titan-Micro-Elec-TM1640_C41327.pdf
+C7532,HT1621B,LQFP-48(7x7),17313,HT1621B,LCD Drivers,base,,,https://datasheet.lcsc.com/lcsc/1809121513_Holtek-Semicon-HT1621B_C7532.pdf
+C112574,X5032110592MSB2GI,SMD5032-2P,16673,YSX530GA 11.0592MHz ±10ppm 20pF,Crystals,base,,,https://datasheet.lcsc.com/lcsc/2103291134_Yangxing-Tech-X5032110592MSB2GI_C112574.pdf
+C8959,DS1302Z+T&R,SOIC-8,16580,DS1302Z+T&R,Real-time Clocks (RTC),base,,,https://datasheet.lcsc.com/lcsc/1811071513_Maxim-Integrated-DS1302Z-T-R_C8959.pdf
+C23922,STM32F030C8T6,LQFP-48(7x7),11906,STM32F030C8T6,ST Microelectronics,base,,,https://datasheet.lcsc.com/lcsc/1811061717_STMicroelectronics-STM32F030C8T6_C23922.pdf
+C75510,LM317AG-TN3-R,TO-252-2(DPAK),11357,正 Vin=40V Vout=1.2V~37V 1.5A,Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1810271112_UTC-Unisonic-Tech-LM317AG-TN3-R_C75510.pdf
+C21379,CD4051BM96,SOIC-16-150mil,9457,CD4051BM96,Analog Switches / Multiplexers,base,,,https://www.ti.com/cn/lit/gpn/cd4051b
+C68035,MLF2012C101KT000,0805,8301,100uH ±10% 2.5Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1810162253_TDK-MLF2012C101KT000_C68035.pdf
+C10002,LM2596SX-5.0/NOPB,TO-263-5,7811,降压型 Vin=4.5V~40V Vout=5V 3A,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/lm2596
+C34465,LM2576SX-5.0/NOPB,TO-263-5,7735,降压型 Vin=4V~40V Vout=5V 3A,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/lm2576
+C2990493,SMF30CA,SOD-123FL,1553,双向 Vrwm:30V 200W,TVS,base,,,https://datasheet.lcsc.com/lcsc/2205231816_Liown-SMF30CA_C2990493.pdf
+C719499,FEMDRM008G-58A39,FBGA-153,145,8Gbit,eMMC,base,,,https://datasheet.lcsc.com/lcsc/2207261800_FORESEE-FEMDRM008G-58A39_C719499.pdf
+C5126825,F35UQA512M-WWT,WSON-8,2,512Mbit 1.8V,NAND FLASH,base,,,https://datasheet.lcsc.com/lcsc/2210121130_FORESEE-F35UQA512M-WWT_C5126825.pdf
+C17513,0805W8F1001T5E,0805,4968722,1kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311800_UNI-ROYAL-Uniroyal-Elec-0805W8F1001T5E_C17513.pdf
+C22975,0603WAF2001T5E,0603,3976595,2kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF2001T5E_C22975.pdf
+C20526,MMBT3904,SOT-23,3955850,NPN 40V 200mA 1AM  100-300,Bipolar Transistors - BJT,base,,,https://datasheet.lcsc.com/lcsc/2207041900_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MMBT3904_C20526.pdf
+C46219,0603CG3R0C500NT,0603,2587054,3pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061821_FH--Guangdong-Fenghua-Advanced-Tech-0603CG3R0C500NT_C46219.pdf
+C17168,0402WGF0000TCE,0402,2125475,0Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf
+C23186,0603WAF5101T5E,0603,1651564,5.1kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF5101T5E_C23186.pdf
+C45783,CL21A226MAQNNNE,0805,1510874,22uF ±20% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811151152_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf
+C81598,1N4148W,SOD-123,1403546,75V 150mA 4ns,Switching Diode,base,,,https://datasheet.lcsc.com/lcsc/1811061725_ST-Semtech-1N4148W_C81598.pdf
+C25077,0402WGF100JTCE,0402,1350666,10Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF100JTCE_C25077.pdf
+C25092,0402WGF220JTCE,0402,1216732,22Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF220JTCE_C25092.pdf
+C17903,1206W4F100JT5E,1206,1192981,10Ω ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F100JT5E_C17903.pdf
+C23179,0603WAF4700T5E,0603,1170700,470Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4700T5E_C23179.pdf
+C21120,CL10B224KA8NNNC,0603,1049344,220nF ±10% 25V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261513_Samsung-Electro-Mechanics-CL10B224KA8NNNC_C21120.pdf
+C17713,0805W8F4702T5E,0805,805939,47kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4702T5E_C17713.pdf
+C22843,0603WAF1501T5E,0603,728542,1.5kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1501T5E_C22843.pdf
+C22984,0603WAF3002T5E,0603,687023,30kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3002T5E_C22984.pdf
+C17540,0805W8F2000T5E,0805,625855,200Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2000T5E_C17540.pdf
+C23185,0603WAF499JT5E,0603,590018,49.9Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF499JT5E_C23185.pdf
+C23184,0603WAF4992T5E,0603,553902,49.9kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4992T5E_C23184.pdf
+C22790,0603WAF1202T5E,0603,551050,12kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1202T5E_C22790.pdf
+C23204,0603WAF5600T5E,0603,506121,560Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF5600T5E_C23204.pdf
+C31850,0603WAF2202T5E,0603,487918,22kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0603WAF2202T5E_C31850.pdf
+C28233,CL21B104KCFNNNE,0805,471509,100nF ±10% 100V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810191216_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf
+C17737,0805W8F5102T5E,0805,387662,51kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F5102T5E_C17737.pdf
+C20917,AO3400A,SOT-23,369635,N沟道 30V 5.7A,MOSFETs,base,,,https://datasheet.lcsc.com/lcsc/1811081213_Alpha---Omega-Semicon-AO3400A_C20917.pdf
+C23234,0603WAF7501T5E,0603,355767,7.5kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF7501T5E_C23234.pdf
+C25271,0805W8F100KT5E,0805,351684,1Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0805W8F100KT5E_C25271.pdf
+C23153,0603WAF3902T5E,0603,301884,39kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3902T5E_C23153.pdf
+C25750,0402WGF1203TCE,0402,299878,120kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1203TCE_C25750.pdf
+C17798,0805W8F6800T5E,0805,294287,680Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F6800T5E_C17798.pdf
+C38523,CL10C120JB8NNNC,0603,292970,12pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810261515_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.pdf
+C34499,C34499,0805,285431,0805白灯（300-360mcd) SMT业务专用,Light Emitting Diodes (LED),base,,,https://nw.jlcerp.com/overseas-manage/pdfjs/web/viewer.html?file=%2Foverseas-manage%2Femail%2FdownloadByFileNo%3FfileNo%3D94529e18c5284a3081d8a14987ad6aeb%26type%3D1
+C20638,0805W8F750JT5E,0805,278008,75Ω (75R0) ±1%,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/1810301611_UNI-ROYAL-Uniroyal-Elec-0805W8F750JT5E_C20638.pdf
+C25123,0402WGF5100TCE,0402,246699,510Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF5100TCE_C25123.pdf
+C23206,0603WAF5602T5E,0603,239690,56kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF5602T5E_C23206.pdf
+C25752,0402WGF1202TCE,0402,230307,12kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1202TCE_C25752.pdf
+C17621,0805W8F3002T5E,0805,219546,30kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F3002T5E_C17621.pdf
+C25133,0402WGF750JTCE,0402,217748,75Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF750JTCE_C25133.pdf
+C23253,0603WAF8200T5E,0603,216752,820Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF8200T5E_C23253.pdf
+C107114,CC0805JRNPO9BN300,0805,187850,30pF ±5% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810311413_YAGEO-CC0805JRNPO9BN300_C107114.pdf
+C29718,4D03WGJ0103T5E,0603x4,185527,10kΩ ±5%,Resistor Networks & Arrays,base,,,https://datasheet.lcsc.com/lcsc/1810191515_UNI-ROYAL-Uniroyal-Elec-4D03WGJ0103T5E_C29718.pdf
+C17720,0805W8F499JT5E,0805,180377,49.9Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F499JT5E_C17720.pdf
+C27592,0603WAF680JT5E,0603,179494,68Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0603WAF680JT5E_C27592.pdf
+C25197,0603WAF510KT5E,0603,171648,5.1Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0603WAF510KT5E_C25197.pdf
+C17593,0805W8F2702T5E,0805,165755,27kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2702T5E_C17593.pdf
+C26112,0805W8F2004T5E,0805,161457,2MΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010030_UNI-ROYAL-Uniroyal-Elec-0805W8F2004T5E_C26112.pdf
+C23255,0603WAF820JT5E,0603,154469,82Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF820JT5E_C23255.pdf
+C8492,LBSS84LT1G,SOT-23,149466,P沟道 50V 130mA,MOSFETs,base,,,https://datasheet.lcsc.com/lcsc/1811031711_LRC-LBSS84LT1G_C8492.pdf
+C25118,0402WGF470JTCE,0402,144569,47Ω ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF470JTCE_C25118.pdf
+C17436,0805W8F1203T5E,0805,141819,120kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1203T5E_C17436.pdf
+C17616,0805W8F3003T5E,0805,141677,300kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F3003T5E_C17616.pdf
+C25334,1206W4F100LT5E,1206,138347,100mΩ ±1% 250mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-1206W4F100LT5E_C25334.pdf
+C1561,0402CG2R7C500NT,0402,129224,2.7pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141710_FH--Guangdong-Fenghua-Advanced-Tech-0402CG2R7C500NT_C1561.pdf
+C17634,0805W8F330JT5E,0805,127787,33Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F330JT5E_C17634.pdf
+C25725,4D02WGJ0103TCE,0402x4,119950,10kΩ ±5%,Resistor Networks & Arrays,base,,,https://datasheet.lcsc.com/lcsc/1810170420_UNI-ROYAL-Uniroyal-Elec-4D02WGJ0103TCE_C25725.pdf
+C23260,0603WAF9101T5E,0603,110638,9.1kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF9101T5E_C23260.pdf
+C5593,"74HC08D,653",SOIC-14,109229,与门,Gates,base,,,https://datasheet.lcsc.com/lcsc/2006241032_Nexperia-74HC08D-653_C5593.pdf
+C23146,0603WAF3603T5E,0603,108320,360kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3603T5E_C23146.pdf
+C27143,SDCL1005C15NJTDF,0402,100263,15nH ±5% 500mΩ,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/2110081230_Sunlord-SDCL1005C15NJTDF_C27143.pdf
+C17837,0805W8F8200T5E,0805,99688,820Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311830_UNI-ROYAL-Uniroyal-Elec-0805W8F8200T5E_C17837.pdf
+C53134,CL21B473KBCNNNC,0805,95160,47nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811091614_Samsung-Electro-Mechanics-CL21B473KBCNNNC_C53134.pdf
+C22965,0603WAF2703T5E,0603,85351,270kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF2703T5E_C22965.pdf
+C16772,CL05B224KO5NNNC,0402,83043,220nF ±10% 16V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810251021_Samsung-Electro-Mechanics-CL05B224KO5NNNC-_C16772.pdf
+C22810,0603WAF150JT5E,0603,82411,15Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF150JT5E_C22810.pdf
+C23241,0603WAF7500T5E,0603,77867,750Ω ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF7500T5E_C23241.pdf
+C17756,0805W8F5602T5E,0805,73907,56kΩ ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F5602T5E_C17756.pdf
+C22764,0603WAF1101T5E,0603,68276,1.1kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1101T5E_C22764.pdf
+C37474,0603CG6R0C500NT,0603,64390,6pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061822_FH--Guangdong-Fenghua-Advanced-Tech-0603CG6R0C500NT_C37474.pdf
+C5377,DB107S,DBS,64180,1kV 1A,Bridge Rectifiers,base,,,https://datasheet.lcsc.com/lcsc/2105061435_MDD-Microdiode-Electronics--DB107S_C5377.pdf
+C25790,0402WGF4703TCE,0402,61448,470kΩ ±1% 62.5mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF4703TCE_C25790.pdf
+C1527,0402B151K500NT,0402,59689,150pF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810302110_FH--Guangdong-Fenghua-Advanced-Tech-0402B151K500NT_C1527.pdf
+C25969,0603WAF4303T5E,0603,57779,430kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF4303T5E_C25969.pdf
+C1685,0603CG8R2C500NT,0603,55118,8.2pF ±0.25pF 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061811_FH--Guangdong-Fenghua-Advanced-Tech-0603CG8R2C500NT_C1685.pdf
+C31658,CL10B683KB8NNNC,0603,50084,68nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811072020_Samsung-Electro-Mechanics-CL10B683KB8NNNC_C31658.pdf
+C18229,LM2904DR2G,SOIC-8,47549,运算放大器，单电源，双路,Operational Amplifier,base,,,https://datasheet.lcsc.com/lcsc/1811012110_onsemi-LM2904DR2G_C18229.pdf
+C1596,0603B153K500NT,0603,43836,15nF ±10% 50V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811061810_FH--Guangdong-Fenghua-Advanced-Tech-0603B153K500NT_C1596.pdf
+C16581,TP4056-42-ESOP8,ESOP-8,42728,TP4056-42-ESOP8,Battery Management ICs,base,,,https://datasheet.lcsc.com/lcsc/1809261820_TOPPOWER-Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf
+C25270,0805W8F1800T5E,0805,41729,180Ω ±1% 125mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0805W8F1800T5E_C25270.pdf
+C35216,CL31B102KGFNNNE,1206,38653,1nF ±10% 500V 【停产】,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1810221111_Samsung-Electro-Mechanics-CL31B102KGFNNNE_C35216.pdf
+C1585,C1585,0402,37575,33nF (333) ±20% 50V Y5V,Multilayer Ceramic Capacitors MLCC - SMD/SMT,base,,,https://datasheet.lcsc.com/lcsc/1811141711_FH--Guangdong-Fenghua-Advanced-Tech-C1585_C1585.pdf
+C22813,0603WAF1603T5E,0603,28516,160kΩ ±1% 100mW,Chip Resistor - Surface Mount,base,,,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1603T5E_C22813.pdf
+C41327,TM1640,SOIC-28-300mil,22242,TM1640,LED Display Drivers,base,,,https://datasheet.lcsc.com/lcsc/2101251932_TM-Shenzhen-Titan-Micro-Elec-TM1640_C41327.pdf
+C7532,HT1621B,LQFP-48(7x7),17313,HT1621B,LCD Drivers,base,,,https://datasheet.lcsc.com/lcsc/1809121513_Holtek-Semicon-HT1621B_C7532.pdf
+C112574,X5032110592MSB2GI,SMD5032-2P,16673,YSX530GA 11.0592MHz ±10ppm 20pF,Crystals,base,,,https://datasheet.lcsc.com/lcsc/2103291134_Yangxing-Tech-X5032110592MSB2GI_C112574.pdf
+C8959,DS1302Z+T&R,SOIC-8,16580,DS1302Z+T&R,Real-time Clocks (RTC),base,,,https://datasheet.lcsc.com/lcsc/1811071513_Maxim-Integrated-DS1302Z-T-R_C8959.pdf
+C23922,STM32F030C8T6,LQFP-48(7x7),11906,STM32F030C8T6,ST Microelectronics,base,,,https://datasheet.lcsc.com/lcsc/1811061717_STMicroelectronics-STM32F030C8T6_C23922.pdf
+C75510,LM317AG-TN3-R,TO-252-2(DPAK),11357,正 Vin=40V Vout=1.2V~37V 1.5A,Linear Voltage Regulators (LDO),base,,,https://datasheet.lcsc.com/lcsc/1810271112_UTC-Unisonic-Tech-LM317AG-TN3-R_C75510.pdf
+C21379,CD4051BM96,SOIC-16-150mil,9457,CD4051BM96,Analog Switches / Multiplexers,base,,,https://www.ti.com/cn/lit/gpn/cd4051b
+C68035,MLF2012C101KT000,0805,8301,100uH ±10% 2.5Ω,Inductors (SMD),base,,,https://datasheet.lcsc.com/lcsc/1810162253_TDK-MLF2012C101KT000_C68035.pdf
+C10002,LM2596SX-5.0/NOPB,TO-263-5,7811,降压型 Vin=4.5V~40V Vout=5V 3A,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/lm2596
+C34465,LM2576SX-5.0/NOPB,TO-263-5,7735,降压型 Vin=4V~40V Vout=5V 3A,DC-DC Converters,base,,,https://www.ti.com/cn/lit/gpn/lm2576
+C2990493,SMF30CA,SOD-123FL,1553,双向 Vrwm:30V 200W,TVS,base,,,https://datasheet.lcsc.com/lcsc/2205231816_Liown-SMF30CA_C2990493.pdf
+C719499,FEMDRM008G-58A39,FBGA-153,145,8Gbit,eMMC,base,,,https://datasheet.lcsc.com/lcsc/2207261800_FORESEE-FEMDRM008G-58A39_C719499.pdf
+C5126825,F35UQA512M-WWT,WSON-8,2,512Mbit 1.8V,NAND FLASH,base,,,https://datasheet.lcsc.com/lcsc/2210121130_FORESEE-F35UQA512M-WWT_C5126825.pdf
